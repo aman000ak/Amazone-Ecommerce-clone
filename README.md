@@ -21,7 +21,7 @@ Clone the Repository: Use Git to clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/aman000ak/amazon-ecommerce-clone.git
+git clone https://github.com/aman000ak/Amazone-Ecommerce-clone.git
 Open in Browser: Navigate to the project directory and open the index.html file in your preferred web browser.
 
 Explore the Clone: Explore the static Amazon clone, including the homepage, product listings, and other sections.
